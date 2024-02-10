@@ -1,0 +1,4 @@
+python a1_headless.py --image-path report/image3.jpg \
+                      --source-path report/image3_source.csv \
+                      --destination-path report/image3_destination.csv \
+                      --output-path report/output
